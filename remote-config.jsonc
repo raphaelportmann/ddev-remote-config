@@ -1,0 +1,13 @@
+{
+  "update-interval": 10,
+  "messages": {
+    "ticker": {
+      "interval": 1,
+      "messages": [
+        {
+          "message": "Test Message!"
+        }
+      ]
+    }
+  }
+}
